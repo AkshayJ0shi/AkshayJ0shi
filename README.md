@@ -1,7 +1,7 @@
 ### Hi 👋
 
 ## About me
-Interested in LLMs. 
+I do pretty much everything web dev related. Have fairly deep knowledge of deep learning and LLMs in particular. I develope games with Godot occassionally.  
 
 ### Machine Learning & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
